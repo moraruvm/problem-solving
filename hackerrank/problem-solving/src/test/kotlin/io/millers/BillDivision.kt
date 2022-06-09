@@ -4,11 +4,12 @@ import io.millers.common.ConsoleAssert
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 
+/**
+ * Source: https://www.hackerrank.com/challenges/bon-appetit/problem
+ */
 class BillDivision : ConsoleAssert() {
 
     /**
-     * Source: https://www.hackerrank.com/challenges/bon-appetit/problem
-     *
      * Complete the 'bonAppetit' function below.
      *
      * The function accepts following parameters:
